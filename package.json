@@ -1,0 +1,12 @@
+{
+  "name": "chainlink-boilerplate",
+  "version": "1.0.0",
+  "description": "Chainlink bolierplate",
+  "main": "index.js",
+  "repository": "https://github.com/zKnight223/chainlink-boilerplate.git",
+  "author": "zKnight223 <keric0223@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.5.1"
+  }
+}
